@@ -1,3 +1,4 @@
+# DEPRECATED
 # KUKULCAN.Kernel.Database
 
 ## Overview
